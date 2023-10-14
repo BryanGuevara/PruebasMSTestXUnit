@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\bin\Debug\net6.0\BAGG.deps.json
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\bin\Debug\net6.0\BAGG.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\bin\Debug\net6.0\BAGG.pdb
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\obj\Debug\net6.0\BAGG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\obj\Debug\net6.0\BAGG.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\obj\Debug\net6.0\BAGG.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\obj\Debug\net6.0\BAGG.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\obj\Debug\net6.0\BAGG.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\obj\Debug\net6.0\refint\BAGG.dll
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\obj\Debug\net6.0\BAGG.pdb
+C:\Users\MINEDUCYT\Desktop\Tareas\Guia 1- Pruebas unitarias con MSTest, xUnit\BAGG\BAGG\obj\Debug\net6.0\ref\BAGG.dll
